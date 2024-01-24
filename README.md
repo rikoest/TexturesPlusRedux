@@ -11,8 +11,8 @@ Enjoy!
 
 # Plans
 
-[ ] Bigger selection of colors
-[ ] More logos
-[ ] Textures for space stations
-[ ] More metals
-[ ] Shadow and shape textures
+- [ ] Bigger selection of colors
+- [ ] More logos
+- [ ] Textures for space stations
+- [ ] More metals
+- [ ] Shadow and shape textures
