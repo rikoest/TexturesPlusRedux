@@ -5,6 +5,6 @@ This texture pack adds new colors, agency logos, and other stuff.
 
 # Instructions
 
-Download the latest release.
+Download the .zip from the releases.
 Extract the .zip file in steamapps>Spaceflight Simulator>Spaceflight Simulator Game>Mods>Custom Assets>Texture Packs.
 Enjoy!
